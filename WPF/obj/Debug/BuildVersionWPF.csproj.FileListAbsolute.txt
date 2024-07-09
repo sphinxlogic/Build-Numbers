@@ -1,0 +1,17 @@
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.csproj.AssemblyReference.cache
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\MainWindow.g.cs
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\App.g.cs
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF_MarkupCompile.cache
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF_MarkupCompile.lref
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_NTROOT\Build Numbers\BuildVersionWPF\bin\Debug\BuildVersionWPF.exe
+D:\_NTROOT\Build Numbers\BuildVersionWPF\bin\Debug\BuildVersionWPF.pdb
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\App.baml
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\MainWindow.baml
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\SampleData\dataSampleDataSource\dataSampleDataSource.baml
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.g.resources
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.Properties.Resources.resources
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.csproj.GenerateResource.cache
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.csproj.CoreCompileInputs.cache
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.exe
+D:\_NTROOT\Build Numbers\BuildVersionWPF\obj\Debug\BuildVersionWPF.pdb
