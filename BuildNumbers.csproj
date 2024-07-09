@@ -77,8 +77,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Windows.ico" />
     <Content Include="Windows.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
