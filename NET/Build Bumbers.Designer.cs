@@ -32,6 +32,7 @@ namespace BuildNumbers
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.ContextMenu = new System.Windows.Forms.ContextMenu();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -57,6 +58,9 @@ namespace BuildNumbers
             this.button2.Text = "&Cancel";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
+
+            this.ContextMenu.MenuItems.Add("&Copy");
+
             // 
             // dataGridView1
             // 

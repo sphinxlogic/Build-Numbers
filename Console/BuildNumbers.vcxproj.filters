@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="res\BuildNumbersMFC.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
+    <ClCompile Include="BuildNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
