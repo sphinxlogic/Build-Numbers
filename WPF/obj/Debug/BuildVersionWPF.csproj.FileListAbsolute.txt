@@ -1,0 +1,17 @@
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\bin\Debug\BuildVersionWPF.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\bin\Debug\BuildVersionWPF.pdb
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.csproj.AssemblyReference.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\MainWindow.g.cs
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\App.g.cs
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF_MarkupCompile.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF_MarkupCompile.lref
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\App.baml
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\MainWindow.baml
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\SampleData\dataSampleDataSource\dataSampleDataSource.baml
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.g.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.Properties.Resources.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.csproj.GenerateResource.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.csproj.CoreCompileInputs.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\WPF\obj\Debug\BuildVersionWPF.pdb

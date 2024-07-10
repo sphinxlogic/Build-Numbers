@@ -17,12 +17,7 @@
                 <TextBlock Text="{Binding name}"/>
             </StackPanel>
         </DataTemplate>
-        <Storyboard x:Key="Storyboard1">
-            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="listBox">
-                <SplineDoubleKeyFrame KeyTime="0" Value="0"/>
-                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
-            </DoubleAnimationUsingKeyFrames>
-        </Storyboard>
+        <Storyboard x:Key="Storyboard1"/>
     </Window.Resources>
     <Window.Triggers>
         <EventTrigger RoutedEvent="FrameworkElement.Loaded">
@@ -33,6 +28,5 @@
         <ContentControl Name="Detail" Grid.Row="3" Grid.ColumnSpan="3"
                
                 Margin="9,0,0,0"/>
-        <ListBox x:Name="listBox" ItemTemplate="{DynamicResource buildversionTemplate1}" ItemsSource="{Binding buildversionCollection}" Margin="10,10,0,10" HorizontalAlignment="Left" Width="240.115"/>
     </Grid>
 </Window>
