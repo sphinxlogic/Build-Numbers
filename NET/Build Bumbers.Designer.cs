@@ -1,4 +1,4 @@
-﻿
+﻿using System.Windows.Forms;
 namespace BuildNumbers
 {
     partial class Form1
@@ -6,7 +6,7 @@ namespace BuildNumbers
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private System.ComponentModel.IContainer components = null;       
 
         /// <summary>
         /// Clean up any resources being used.
@@ -60,6 +60,7 @@ namespace BuildNumbers
             this.button2.Click += new System.EventHandler(this.button2_Click);
 
             this.ContextMenu.MenuItems.Add("&Copy");
+            this.ContextMenu.MenuItems.Add("&Paste");
 
             // 
             // dataGridView1
@@ -97,10 +98,12 @@ namespace BuildNumbers
 
         }
 
+       
         #endregion
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.DataGridView dataGridView1;
+               
     }
 }
 
