@@ -1,13 +1,37 @@
-// BuildNumbers.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+#include <tchar.h>
 
-#include <iostream>
+#using <mscorlib.dll>
+#using <System.xml.dll>
 
-int main()
+using namespace System;
+using namespace System::Xml;
+
+void _tmain(void)
 {
-    std::cout << "Hello World!\n";
-}
+    XmlTextReader^ reader = gcnew XmlTextReader("data.xml");
 
+    while (reader->Read())
+    {
+        switch (reader->NodeType)
+        {
+        case XmlNodeType::Element: // The node is an element.
+            Console::Write("<{0}", reader->Name);
+
+            while (reader->MoveToNextAttribute()) // Read the attributes.
+                Console::Write(" {0}='{1}'", reader->Name, reader->Value);
+            Console::WriteLine(">");
+            break;
+        case XmlNodeType::Text: //Display the text in each element.
+            Console::WriteLine(reader->Value);
+            break;
+        case XmlNodeType::EndElement: //Display the end of the element.
+            Console::Write("</{0}", reader->Name);
+            Console::WriteLine(">");
+            break;
+        }
+    }
+    Console::ReadLine();
+}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

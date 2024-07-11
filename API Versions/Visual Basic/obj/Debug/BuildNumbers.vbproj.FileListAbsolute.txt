@@ -9,3 +9,14 @@ D:\Source\Docs\Windows\Build Numbers\BuildNumbers\Windows Build Numbers\obj\Debu
 D:\Source\Docs\Windows\Build Numbers\BuildNumbers\Windows Build Numbers\obj\Debug\Windows Build Numbers.exe
 D:\Source\Docs\Windows\Build Numbers\BuildNumbers\Windows Build Numbers\obj\Debug\Windows Build Numbers.xml
 D:\Source\Docs\Windows\Build Numbers\BuildNumbers\Windows Build Numbers\obj\Debug\Windows Build Numbers.pdb
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\bin\Debug\Windows Build Numbers.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\bin\Debug\Windows Build Numbers.pdb
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\bin\Debug\Windows Build Numbers.xml
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\BuildNumbers.vbproj.AssemblyReference.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\Windows_Build_Numbers.Form1.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\Windows_Build_Numbers.Resources.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\BuildNumbers.vbproj.GenerateResource.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\BuildNumbers.vbproj.CoreCompileInputs.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\Windows Build Numbers.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\Windows Build Numbers.xml
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Visual Basic\obj\Debug\Windows Build Numbers.pdb

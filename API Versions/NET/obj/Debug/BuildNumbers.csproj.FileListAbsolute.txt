@@ -1,0 +1,10 @@
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\bin\Debug\BuildNumbers.exe.config
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\bin\Debug\BuildNumbers.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\bin\Debug\BuildNumbers.pdb
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.csproj.AssemblyReference.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.Form1.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.Properties.Resources.resources
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.csproj.GenerateResource.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.csproj.CoreCompileInputs.cache
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.exe
+D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\NET\obj\Debug\BuildNumbers.pdb
