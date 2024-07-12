@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  VListVw.c
+VListVw.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  VListVw.vcxproj -> D:\Source\Docs\Windows\Build Numbers\BuildNumbers\API Versions\Debug\BuildNumbersWin32.exe

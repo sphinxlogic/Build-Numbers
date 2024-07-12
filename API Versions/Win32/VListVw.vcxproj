@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ReadXML.cpp" />
     <ClCompile Include="VListVw.c" />
   </ItemGroup>
   <ItemGroup>
@@ -154,6 +155,12 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="VListVw.Rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="PurchurseOrder.wsdl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
